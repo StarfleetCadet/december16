@@ -1,1 +1,2 @@
-what's going on here
+-learning some sql statements
+-UML: class diagram, component diagram, activity,- communication.- sequence,- use case diagram
