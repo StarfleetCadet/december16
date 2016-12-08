@@ -1,0 +1,3 @@
+-read assoziation, aggregation, composition
+-chapter 4: object diagram, 5: sequence diagram
+-do some exercises
