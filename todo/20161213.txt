@@ -1,0 +1,3 @@
+-economics: selection criterion(quantifiable/not quantifiable),calculate subscription price
+-research cloud computing
+-practice database querys
