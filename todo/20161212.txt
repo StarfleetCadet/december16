@@ -1,0 +1,4 @@
+-proxy configuration
+-multicore processing
+-utility analysis
+-differences : Open Source, GNU GPL, Public Domain
