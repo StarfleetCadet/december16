@@ -1,0 +1,4 @@
+-data security/data protection
+-jurisdiction of federation and countries/§ BDSG
+-project management: explanation of PRINCE2
+-exercises: precedence diagram method/ critical path/ gantt diagram 
