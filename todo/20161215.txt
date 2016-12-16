@@ -1,0 +1,3 @@
+-process organisation
+-Event-driven Process Chain
+-numeral systems:decimal->binary->hexa decimal
