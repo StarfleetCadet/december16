@@ -1,0 +1,3 @@
+-CPU:Execution unit,control unit, alu, register
+-bussystems, northbridge/southbridge
+-efi,mainboard-formfactor, clock rates
