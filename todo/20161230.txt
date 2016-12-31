@@ -1,0 +1,5 @@
+-multicore processing
+-multithread, cisc, risk
+-hub, switch, router technologies
+-RAID-Systems. 0, 1, 5
+-influence of lifecycles for different storage media
